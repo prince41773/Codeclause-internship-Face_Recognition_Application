@@ -43,10 +43,10 @@ A web application for face recognition using OpenCV and Flask, allowing users to
 3. Upload an image and view the recognized faces.
 
 ## Project Structure
--main.py: Main Flask application file
--haarcascade_face.xml: Haar Cascade file for face detection
--im.jpg: Background image for the web interface
--Training_Data/: Directory containing training images
--Training_Faces/: Directory where processed training images will be saved
--static/: Directory for saving output images
--templates/: Directory for HTML templates
+- main.py: Main Flask application file
+- haarcascade_face.xml: Haar Cascade file for face detection
+- im.jpg: Background image for the web interface
+- Training_Data/: Directory containing training images
+- Training_Faces/: Directory where processed training images will be saved
+- static/: Directory for saving output images
+- templates/: Directory for HTML templates
