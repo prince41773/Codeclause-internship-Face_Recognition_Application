@@ -25,7 +25,7 @@ A web application for face recognition using OpenCV and Flask, allowing users to
    cd Codeclause-internship-Face_Recognition_Application
 2. Install the required packages:
 
-  ```bash
+   ```bash
   pip install -r requirements.txt
 3. Download the Haar Cascade file for face detection and place it in the project directory. You can get it from here.
 
